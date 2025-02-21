@@ -309,6 +309,7 @@ img {
 
 .home__blob-img {
   width: 220px;
+  transform: translate(-10px, -39px);
 }
 
 .home__data {
